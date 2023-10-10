@@ -3,7 +3,7 @@
  let balls = [];
 let i =0;
 function setup() {
-  createCanvas(windowWidth, windowHeight); 
+  createCanvas(windowWidth, 300); 
   
 }
 
