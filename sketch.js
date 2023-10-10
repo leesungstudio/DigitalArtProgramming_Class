@@ -14,7 +14,7 @@ function draw() {
     b.update();
     b.display();
     //ball.bounceEdges();
-    b.passEdges();
+    b.passsssEdges();
   }
   
   if (mouseIsPressed){
