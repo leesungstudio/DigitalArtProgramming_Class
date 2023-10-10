@@ -12,7 +12,7 @@ function draw() {
   
   for (let b of balls){
     b.update();
-    b.display();
+    b.display(); // 주석 추가 2023.10.10.
     //ball.bounceEdges();
     b.passEdges();
   }
