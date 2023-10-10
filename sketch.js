@@ -14,7 +14,7 @@ function draw() {
     b.update();
     b.display(); // 주석 추가 2023.10.10.
     //ball.bounceEdges();
-    b.passEdges();
+    b.paEdges();
   }
   
   if (mouseIsPressed){
