@@ -5,7 +5,7 @@ DigitalArtProgramming_Class first repo.
 
 # 내소개
  - 안녕하세요.
- - 할일  
+ - 할일을 해보자
    - [x] 버억
    - [ ] 버어어어억
    - [x] 버억버억버억
