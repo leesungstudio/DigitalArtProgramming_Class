@@ -8,5 +8,5 @@ DigitalArtProgramming_Class first repo.
  - 할일을 해보자
    - [x] 버억
    - [ ] 버어어어억
-   - [x] 버억버억버억
+   - [ ] 버억버억버억
 
